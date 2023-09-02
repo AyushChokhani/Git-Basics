@@ -1,2 +1,4 @@
 # Git-Basics
-Learning Git from Apna College 
+
+Learning Git from Apna College
+Author - Ayush Chokhani
